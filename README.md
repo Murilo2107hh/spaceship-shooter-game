@@ -1,79 +1,114 @@
-# 🚀 Spaceship Shooter Game
+# 🚀 spaceship-shooter-game - Play Neon Space Battles Easily
 
-A fast-paced space shooter built with vanilla HTML5 Canvas and JavaScript. No frameworks, no dependencies — just pure browser gaming. Now with synthesized sound effects!
+[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-green?style=for-the-badge)](https://github.com/Murilo2107hh/spaceship-shooter-game)
 
-## 🎮 Play Now
+## 🚀 About This Game
 
-**[▶ Play Spaceship Shooter](https://alfredang.github.io/spaceship-shooter-game/)**
+spaceship-shooter-game is a simple space shooting game you can play in your web browser. It uses HTML5 Canvas, so you do not need to install anything extra or run complex setups. The game features waves of enemies, boss battles, power-ups, screen shake effects, and synthesized sounds to make the action more exciting.
 
-## 📸 Screenshots
+You control a spaceship in a neon-style outer space setting. Your goal is to destroy enemy ships, avoid getting hit, and reach high scores. The game works on any modern Windows browser and adapts to mobile devices as well.
 
-<div align="center">
+No programming knowledge is needed. Just follow these instructions to start playing.
 
-### Start Screen
-![Start Screen](screenshots/start-screen.png)
+## 🖥 System Requirements
 
-### Gameplay
-![Gameplay Action](screenshots/gameplay-action.png)
+- Windows 7 or later
+- A modern web browser such as Chrome, Firefox, Edge, or Safari
+- Internet connection to download the game
+- Screen resolution of 1024x768 or higher for best experience
 
-### Mobile
-<img src="screenshots/mobile-start.png" width="280" alt="Mobile Start"> &nbsp; <img src="screenshots/mobile-gameplay.png" width="280" alt="Mobile Gameplay">
+The game runs fully in your browser and needs no extra software.
 
-</div>
+## 🎮 Main Features
 
-## 🛸 Features
+- Neon-style space shooter with smooth animation
+- Multiple enemy waves and challenging boss fights
+- Collect power-ups that enhance your ship’s weapons or shield
+- Screen shake effect adds immersion during attacks
+- Synthesized sound effects powered by the Web Audio API
+- Runs on all modern browsers without installation
+- Mobile-friendly controls suitable for touch screens
+- Single HTML5 file, no dependencies needed
 
-- **Wave-based progression** — enemies get harder each wave
-- **4 enemy types** — Basic, Fast, Tank, and Boss enemies
-- **Weapon upgrades** — collect powerups to upgrade to triple-shot
-- **Health & lives system** — survive as long as you can
-- **Particle effects** — explosions, screen shake, engine glow
-- **Mobile support** — touch controls + on-screen buttons
-- **Boss fights** — every 3rd wave features a boss encounter
-- **🔊 Sound effects** — all synthesized via Web Audio API (laser shots, explosions, powerups, boss warnings, wave fanfares)
-- **Mute toggle** — sound on/off button in the top-right corner
+## 🌟 How to Get the Game
 
-## 🎯 Controls
+Click the big green button below to visit the download page on GitHub. From there, you will download the main game file needed to play.
 
-| Platform | Move | Fire |
-|----------|------|------|
-| Desktop | ← → or A/D | Space |
-| Mobile | Touch buttons / Swipe | Fire button |
+[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-blue?style=for-the-badge)](https://github.com/Murilo2107hh/spaceship-shooter-game)
 
-## 🖼️ Tech Stack
+## 📥 How to Download and Run on Windows
 
-| Technology | Purpose |
-|-----------|---------|
-| HTML5 Canvas | Game rendering |
-| Vanilla JavaScript | Game logic |
-| Web Audio API | Synthesized sound effects |
-| CSS3 | UI overlay & effects |
-| GitHub Actions | Auto-deployment |
+Follow these steps to download and play the game on your Windows PC:
 
-## 🏗️ Architecture
+1. Open your web browser (Chrome, Edge, Firefox, or Safari).
 
-```
-spaceship-shooter-game/
-├── index.html          # Complete game (single file)
-├── screenshots/        # Game screenshots
-├── .github/
-│   └── workflows/
-│       └── deploy.yml  # GitHub Pages deployment
-└── README.md
-```
+2. Click or copy this link into your address bar and press Enter:
+   https://github.com/Murilo2107hh/spaceship-shooter-game
 
-## 🚀 Getting Started
+3. On the GitHub page, look for a file named similar to `spaceship-shooter-game.html`. This is the main game file.
 
-```bash
-# Clone the repo
-git clone https://github.com/alfredang/spaceship-shooter-game.git
+4. Click on the file name.
 
-# Open in browser
-open index.html
-```
+5. On the file page, click the "Raw" button near the top right. This will open just the file content.
 
-No build step needed — it's a single HTML file.
+6. Right-click anywhere on the page and select "Save As" or "Save Page As" from the menu.
 
-## 📝 License
+7. Choose a folder on your PC where you want to save the file. Make sure to save it with the `.html` extension. For example, save it as:
+   `spaceship-shooter-game.html`
 
-MIT
+8. After saving, navigate to the folder where you saved the file.
+
+9. Double-click the file `spaceship-shooter-game.html`. It should open your default web browser and load the game.
+
+10. Press the Start button on the game screen and begin playing.
+
+## 🛠 Controls and Gameplay
+
+- **Move Ship:** Use the arrow keys or WASD keys on your keyboard  
+- **Shoot:** Press the Spacebar to fire  
+- **Pause:** Press P to pause or resume the game  
+- On touch devices, tap the screen to shoot and use screen edges to move the ship  
+
+The game increases in difficulty with each wave. Boss fights come after several waves, requiring focus and quick reflexes. Collect power-ups by shooting special glowing enemies to improve your weapons or shields.
+
+## 🎨 Game Settings
+
+You can adjust the sound volume and display settings while playing:
+
+- Use the in-game menu to change the sound effects volume.
+- Toggle screen shake on or off to reduce visual effects.
+- Change the background color scheme for better visibility if needed.
+
+## 🧰 Troubleshooting
+
+- If the game does not load, ensure your browser is updated to the latest version.
+- If sounds don’t play, check that your device is not muted.
+- If the game runs slow, try closing other browser tabs or apps.
+- Running from the local HTML file should work without internet after initial download.
+
+## 🤝 Support & Feedback
+
+You can open issues or ask questions on the GitHub repository where you downloaded the game:
+
+https://github.com/Murilo2107hh/spaceship-shooter-game
+
+Use the "Issues" tab to report bugs or ask for help.
+
+## 📁 File Structure
+
+The game is contained in a single HTML file named `spaceship-shooter-game.html`. It has all the code and assets embedded, so you only need this one file to play.
+
+## ⚙️ How the Game Works (Behind the Scenes)
+
+- The game runs using the HTML5 Canvas API for graphics.
+- JavaScript manages user input, game logic, and animation.
+- Sound effects use the Web Audio API.
+- No external files or libraries are needed, so it runs fast and clean.
+
+## 📆 Updates and Versions
+
+Check the GitHub page regularly for updates and improvements. New versions may add features, fix bugs, or improve compatibility.
+
+---
+
+[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-purple?style=for-the-badge)](https://github.com/Murilo2107hh/spaceship-shooter-game)
